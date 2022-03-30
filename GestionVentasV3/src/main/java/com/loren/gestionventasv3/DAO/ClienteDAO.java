@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  *
- * @author profesor
+ * @author loren-prbando
  */
 public class ClienteDAO implements IOperationsCRUD<Cliente>{
 
